@@ -1,0 +1,10 @@
+# python cache and temp files
+__pycache__/
+
+# video data and network weights
+data/
+checkpoints/
+.venv/*
+output2.mp4
+output3.mp4
+README.txt
